@@ -15,10 +15,11 @@ Guided by: Dr. Dhanya Sathyan, Professor at Dept. of Civil Engineering, Amrita S
 
 If you find the work useful, cite:
 
-@article{sivasubramanian2022experimental,
+@article
+sivasubramanian2022experimental,
   title={Experimental validation of compressive strength prediction using machine learning algorithm},
   author={Sivasubramanian, Arrun and Krishna, S Arathy and Nair, Devi H and Varma, Kripa and Radhakrishnan, Rakhi and Sathyan, Dhanya},
   journal={Materials Today: Proceedings},
   year={2022},
   publisher={Elsevier}
-}
+
