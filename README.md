@@ -13,14 +13,4 @@ Codes by Arrun Sivasubramanian, Center for Computational Engineering and Network
 The validation process was done by Arathy Krishna S, Rakhi Radhakrishnan, Kripa Varma and Devi H Nair; Dept. of Civil Engineering, Amrita School of Engineering, Coimbatore
 Guided by: Dr. Dhanya Sathyan, Professor at Dept. of Civil Engineering, Amrita School of Engineering, Coimbatore.
 
-If you find the work useful, cite:
-
-@article
-{
-  sivasubramanian2022experimental,
-  title={Experimental validation of compressive strength prediction using machine learning algorithm},
-  author={Sivasubramanian, Arrun and Krishna, S Arathy and Nair, Devi H and Varma, Kripa and Radhakrishnan, Rakhi and Sathyan, Dhanya},
-  journal={Materials Today: Proceedings},
-  year={2022},
-  publisher={Elsevier}
-}
+If you find the work useful, cite: Sivasubramanian, Arrun, et al. "Experimental validation of compressive strength prediction using machine learning algorithm." Materials Today: Proceedings (2022).
