@@ -18,3 +18,4 @@ The validation process was done by Arathy Krishna S, Rakhi Radhakrishnan, Kripa 
 Guided by: Dr. Dhanya Sathyan, Professor at Dept. of Civil Engineering, Amrita School of Engineering, Coimbatore.
 
 
+Link to Paper: https://www.sciencedirect.com/science/article/pii/S2214785322025032
